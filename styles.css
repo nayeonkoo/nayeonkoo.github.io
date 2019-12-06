@@ -1,0 +1,73 @@
+.container-fluid {
+    background: #99BADD;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+    font-size: 1.3rem;
+    margin: auto 0;
+    padding-top: 1px;
+    color: #FFFFFF;
+    background-color: #99BADD;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.title {
+    font-family: 'Anton';
+    margin-right: 1.5rem;
+}
+
+.figure {
+    height: 90%;
+    width: 100%;
+}
+
+.figure img {
+    height: 100%;
+    width: 100%;
+}
+
+.column1 {
+    background: #707070;
+    color: white;
+    padding: 5px;
+}
+
+.column2 {
+    background: #707070;
+    padding: 5px;
+
+}
+
+.column3 {
+    background: #707070;
+    padding: 5px;
+
+
+}
+
+.color4,
+body {
+    background: #99BADD;
+    font-size: 1.2em;
+    
+}
+
+.navbar {
+    margin: 0 auto;
+    background-color: #99BADD;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+    text-decoration: underline;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #A2AAAD;
+}
+
+
+

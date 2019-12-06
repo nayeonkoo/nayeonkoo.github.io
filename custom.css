@@ -1,0 +1,42 @@
+/* All your custom styles go here. You can override the default Bootstrap styles or add your own custom styles for elements, classes, or IDs.  */
+
+.container-fluid {
+    background: #99BADD;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+    font-size: 1.3rem;
+    margin: auto 0;
+    padding-top: 1px;
+    color: #FFFFFF;
+    background-color: #99BADD;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.title {
+    font-family: 'Anton';
+    margin-right: 1.5rem;
+}
+
+
+
+.navbar-nav .nav-item .nav-link {
+    color: #FFFFFF;
+    text-decoration: underline;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #A2AAAD;
+}
+
+.navbar {
+    margin: 0 auto;
+    background-color: #99BADD;
+}
+
+#news_search {
+    margin-bottom: 2rem;
+}
